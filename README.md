@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a private project.<br>Always willing to work in teams.<br>I enjoy working on projects' UI/UX side and developing ideas as a web front-end developer.<br>
+.<br>Always willing to work in teams.<br>I enjoy working on projects' UI/UX side and developing ideas as a web front-end developer.<br>
 
 
 ## 🌐 Socials:
